@@ -30,12 +30,12 @@
 
 ### Wikipedia: https://www.wikipedia.org/
     Retrieve information on each party including:
-      Party Abbreviation
-      President
-      Year Founded
-      Headquarters
-      Student/Youth/Women’s Wing
-      Seats in Lok Sabha
+      * Party Abbreviation
+      * President
+      * Year Founded
+      * Headquarters
+      * Student/Youth/Women’s Wing
+      * Seats in Lok Sabha
 
 ## FILES:
 ### IndiaVotesCollection.ipynb
