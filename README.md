@@ -58,7 +58,7 @@
  * **Transform**: Created a column called Code and using map function created code for each party. Transformed Party name to party code in     google trend output. Created code in Google trends data frame. Used Code column as index. Removed date column. Transposed Google Trend   data
  * **Load**: IndianGeneralElectionData.csv, Party_Leader_Ratings_googleTrends.csv, Party_Rating_googleTrends.csv
 
-### SqlDatabase.ipynb
+### MySqlDatabase.ipynb
  * **Extract**: Pull PartySummary.csv, SentimentScores.csv, PartyProperties.csv, IndiaGeneralElection.csv, PartyLeaderRatings.csv,             PartyRatings.csv
  * **Transform**: Tables to dataframes and loaded into a sqlite database
  * **Load**: Output IndiaElectionDB.sql which contains 6 tables
